@@ -44,6 +44,10 @@ text-decoration: none;
 color: #fff;
 font-size: 14px;
 }
+.material-icons-outlined{
+width: 25px;
+height: 25px;
+}
 .row {
   display: flex;
   height: 88%;
