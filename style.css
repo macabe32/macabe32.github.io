@@ -178,8 +178,12 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
   color: #512da8;
 }
 .booktitle{
+padding: 20px;
+text-align: center;
+line-height: 1.5;
 border: 2.5px solid #1a76d2;
 border-radius: 8px;
+box-sizing: content-box;
 }
 #logo {
 max-width: 50px;
