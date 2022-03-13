@@ -94,7 +94,7 @@ cursor: pointer;
 }
 h1 {
 text-align: center;
-padding: 15px;
+padding: 20px;
 color: black;
 }
 h2 {
@@ -117,8 +117,6 @@ padding: 10px;
 text-align: left;
 color: black;
 line-height: 1.75;
-border: 2.5px solid #512da8;
-border-radius: 8px;
 }
 blockquote {
   border-left-style: solid;
@@ -127,7 +125,7 @@ blockquote {
   padding: 10px;
 }
 .books {
-background-color: #ff8c00;
+background-color: #512da8;
 border: none;
 color: white;
 padding: 15px 30px;
@@ -143,7 +141,7 @@ border-radius: 16px;
 transition: transform 0.5s;
 }
 .home {
-background-color: #0d47a1;
+background-color: #1a76d2;
 border: none;
 color: white;
 padding: 15px 30px;
@@ -176,14 +174,12 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 .mirror:hover{
   transform: translateY(-10px);
 }
-.mirror-icon{
+.material-icons{
   color: #512da8;
 }
-.code-icon{
-  color: #512da8;
-}
-.work-icon{
-  color: #512da8;
+.booktitle{
+border: 2.5px solid #1a76d2;
+border-radius: 8px;
 }
 #logo {
 max-width: 50px;
