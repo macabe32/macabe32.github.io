@@ -88,7 +88,6 @@ cursor: pointer;
   background-size: cover;
   transition: transform 0.5s;
   text-align: center;
-  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24),0 8px 25px 0 rgba(0,0,0,0.19);
 }
 .card:hover{
   transform: translateY(-10px);
