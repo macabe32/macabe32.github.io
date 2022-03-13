@@ -58,7 +58,7 @@ cursor: pointer;
   flex-basis: 50%;
   align-items: center;
   justify-content: center;
-  padding: 15px;
+  padding: 10px;
 }
 .col1 {
   flex-basis: 50%;
@@ -75,7 +75,7 @@ cursor: pointer;
   align-self: center;
   align-content: center;
   display: inline-grid;
-  padding: 15px;
+  padding: 10px;
 }
 .card {
   width: 50px;
@@ -88,18 +88,7 @@ cursor: pointer;
   background-size: cover;
   transition: transform 0.5s;
   text-align: center;
-}
-.card1 {
-  background-color: #778899;
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-}
-.card3 {
-  background-color: #FF6347;
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-}
-.card4 {
-  background-color: #9370DB;
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+  box-shadow: 0 6px 8px 0 rgba(0,0,0,0.24),0 8px 25px 0 rgba(0,0,0,0.19);
 }
 .card:hover{
   transform: translateY(-10px);
