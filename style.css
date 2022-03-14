@@ -73,7 +73,7 @@ cursor: pointer;
   display: flex;
 }
 .col2 {
-  flex-basis: 25%;
+  flex-basis: 75%;
   align-items: center;
   justify-content: center;
   align-self: center;
