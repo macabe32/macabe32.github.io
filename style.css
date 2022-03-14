@@ -78,7 +78,7 @@ cursor: pointer;
   justify-content: center;
   align-self: center;
   align-content: center;
-  display: inline-grid;
+  display: flex;
   padding: 10px;
 }
 .card {
