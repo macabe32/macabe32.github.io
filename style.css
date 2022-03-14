@@ -73,12 +73,12 @@ cursor: pointer;
   display: flex;
 }
 .col2 {
-  flex-basis: 50%;
+  flex-basis: 25%;
   align-items: center;
   justify-content: center;
   align-self: center;
   align-content: center;
-  display: flex;
+  display: inline-grid;
   padding: 10px;
 }
 .card {
