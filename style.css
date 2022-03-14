@@ -61,6 +61,7 @@ cursor: pointer;
   padding: 10px;
   border: 4px solid #512da8;
   border-radius: 8px;
+  border-spacing: 20px;
 }
 .col1 {
   flex-basis: 50%;
