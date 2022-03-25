@@ -82,21 +82,18 @@ cursor: pointer;
   padding: 10px;
 }
 .row1 {
-  display: flex;
-  height: 88%;
+  display: inline-grid;
   justify-content: center;
   padding: 10px;
 }
 .row2 {
-  display: flex;
-  height: 88%;
+  display: inline-grid;
   justify-content: center;
   border-bottom: 3.25px solid #44a4f2;
   padding: 20px;
 }
 .row3 {
-  display: flex;
-  height: 88%;
+  display: inline-grid;
   justify-content: center;
   border-bottom: 3.25px solid #44a4f2;
   padding: 20px;
