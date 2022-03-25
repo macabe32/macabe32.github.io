@@ -155,6 +155,7 @@ details {
   text-align: left;
   color: black;
   line-height: 1.5;
+  flex-basis: 75%;
 }
 .books {
 background-color: #512da8;
