@@ -58,6 +58,7 @@ cursor: pointer;
   flex-basis: 75%;
   display: inline-grid;
   align-items: center;
+  align-self: center;
   justify-content: center;
   padding: 10px;
   border: 4px solid #44a4f2;
@@ -90,13 +91,15 @@ cursor: pointer;
 .row2 {
   display: inline-grid;
   justify-content: center;
-  border-bottom: 3.25px solid #512da8;
+  border: 3.25px solid #512da8;
+  border-radius: 8px;
   padding: 20px;
 }
 .row3 {
   display: inline-grid;
   justify-content: center;
-  border-bottom: 3.25px solid #512da8;
+  border: 3.25px solid #512da8;
+  border-radius: 8px;
   padding: 20px;
 }
 .card {
@@ -131,7 +134,7 @@ padding: 10px;
 text-align: center;
 color: black;
 line-height: 1.5;
-border: 4px solid #512da8;
+border: 4px solid #228b22;
 border-radius: 8px;
 box-shadow: 5px 10px #888888;
 }
