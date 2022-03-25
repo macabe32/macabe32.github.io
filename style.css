@@ -129,6 +129,11 @@ blockquote {
   line-height: 1.5;
   padding: 10px;
 }
+.dropdown {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+}
 .books {
 background-color: #512da8;
 border: none;
