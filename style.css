@@ -81,22 +81,16 @@ cursor: pointer;
   display: inline-grid;
   padding: 10px;
 }
-.col3 {
-  flex-basis: 75%;
-  align-items: center;
+.row2 {
+  display: flex;
+  height: 88%;
   justify-content: center;
-  align-self: center;
-  align-content: center;
-  display: inline-grid;
   padding: 10px;
 }
-.col4 {
-  flex-basis: 75%;
-  align-items: center;
+.row3 {
+  display: flex;
+  height: 88%;
   justify-content: center;
-  align-self: center;
-  align-content: center;
-  display: inline-grid;
   padding: 10px;
 }
 .card {
