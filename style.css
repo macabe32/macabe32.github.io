@@ -56,6 +56,7 @@ cursor: pointer;
 }
 .col {
   flex-basis: 75%;
+  display: inline-grid;
   align-items: center;
   justify-content: center;
   padding: 10px;
