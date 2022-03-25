@@ -129,6 +129,12 @@ blockquote {
   line-height: 1.5;
   padding: 10px;
 }
+details {
+  padding: 10px;
+  text-align: left;
+  color: black;
+  line-height: 1.5;
+}
 .books {
 background-color: #512da8;
 border: none;
