@@ -62,7 +62,7 @@ cursor: pointer;
   justify-content: center;
   padding: 10px;
   border: 4px solid #44a4f2;
-  box-shadow: 5px 10px #000000;
+  box-shadow: 5px 10px #696969;
   border-radius: 8px;
   border-spacing: 20px;
 }
@@ -91,7 +91,7 @@ cursor: pointer;
 .row2 {
   display: inline-grid;
   justify-content: center;
-  border: 3.25px solid #512da8;
+  border: 3.25px solid #DAA520;
   border-radius: 8px;
   padding: 20px;
   flex-basis: 75%;
@@ -99,7 +99,7 @@ cursor: pointer;
 .row3 {
   display: inline-grid;
   justify-content: center;
-  border: 3.25px solid #512da8;
+  border: 3.25px solid #DAA520;
   border-radius: 8px;
   padding: 20px;
   flex-basis: 75%;
@@ -107,7 +107,7 @@ cursor: pointer;
 .row4 {
   display: inline-grid;
   justify-content: center;
-  border: 3.25px solid #512da8;
+  border: 3.25px solid #DAA520;
   border-radius: 8px;
   padding: 20px;
   flex-basis: 75%;
@@ -144,9 +144,9 @@ padding: 10px;
 text-align: center;
 color: white;
 line-height: 1.5;
-border: 4px solid #228b22;
+border: 4px solid #6495ED;
 border-radius: 8px;
-box-shadow: 5px 10px #888888;
+box-shadow: 5px 10px #696969;
 }
 p {
 padding: 10px;
@@ -158,6 +158,7 @@ blockquote {
   border-left-style: solid;
   border-color: #512da8;
   line-height: 1.5;
+  color: white;
   padding: 10px;
 }
 details {
