@@ -44,11 +44,7 @@ text-decoration: none;
 color: #fff;
 font-size: 14px;
 }
-.material-icons-outlined{
-width: 25px;
-height: 25px;
-cursor: pointer;
-}
+
 .row {
   display: flex;
   height: 88%;
@@ -217,13 +213,16 @@ box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
 .books:hover{
   transform: translateY(-10px);
 }
-.mirror:hover{
-  transform: translateY(-10px);
-}
 .material-icons-outlined{
   color: #7FFF00;
   padding-top: 15px;
+  width: 25px;
+  height: 25px;
+  cursor: pointer;
 }
+.material-icons-outlined:hover{
+  transform: translateY(-10px);
+  }
 #logo {
 max-width: 50px;
 margin: 15px 15px;
