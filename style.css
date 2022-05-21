@@ -6,7 +6,7 @@
 
 }
 .container {
-  width: 75%;
+  width: 100%;
   background-color:#353839;
   background-position: center;
   background-size: cover;
@@ -60,19 +60,19 @@ font-size: 14px;
   justify-content: center;
 }
 .col {
-  flex-basis: 75%;
+  flex-basis: 80%;
   display: inline-grid;
   align-items: center;
   align-self: center;
   justify-content: center;
-  padding: 10px;
+  padding: 100px;
   border: 4px solid #44a4f2;
   box-shadow: 5px 10px #696969;
   border-radius: 8px;
   border-spacing: 20px;
 }
 .col1 {
-  flex-basis: 75%;
+  flex-basis: 80%;
   align-items: center;
   justify-content: center;
   align-self: center;
@@ -80,7 +80,7 @@ font-size: 14px;
   display: flex;
 }
 .col2 {
-  flex-basis: 75%;
+  flex-basis: 80%;
   align-items: center;
   justify-content: center;
   align-self: center;
