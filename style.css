@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family:'Mukta', sans-serif;
+    font-family:'Open Sans', sans-serif;
 
 }
 .container {
@@ -14,6 +14,14 @@
   justify-content: center;
   display: block;
 }
+.container2 {
+  width: 100%;
+  background-color:#353839;
+  background-position: center;
+  background-size: cover;
+  align-items: center;
+  justify-content: center;
+}
 body {
 margin: 1;
 padding: 10px;
@@ -21,7 +29,7 @@ background-color: #353839;
 }
 .navbar {
 height: 12%;
-display: flex;
+display: block;
 align-items: center;
 background-color: #F0F8FF;
 }
