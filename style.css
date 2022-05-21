@@ -12,7 +12,6 @@
   background-size: cover;
   align-items: center;
   justify-content: center;
-  margin: auto;
 }
 .container2 {
   width: 100%;
@@ -69,7 +68,6 @@ font-size: 14px;
   box-shadow: 5px 10px #696969;
   border-radius: 8px;
   border-spacing: 20px;
-  margin: auto;
 }
 .col1 {
   flex-basis: 80%;
