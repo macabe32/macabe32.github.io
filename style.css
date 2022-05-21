@@ -51,7 +51,7 @@ font-size: 14px;
 }
 
 .row {
-  display: flex;
+  display: inline-block;
   height: 88%;
   justify-content: center;
   align-items: center;
@@ -172,55 +172,6 @@ details {
   line-height: 1.5;
   flex-basis: 75%;
   cursor: pointer;
-}
-.books {
-background-color: #512da8;
-border: none;
-color: white;
-padding: 15px 30px;
-padding-top: 15px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 16px;
-margin: 4px 2px;
-cursor: pointer;
-justify-content: start;
-align-items: center;
-border-radius: 16px;
-transition: transform 0.5s;
-}
-.home {
-background-color: #1a76d2;
-border: none;
-color: white;
-padding: 15px 30px;
-padding-top: 15px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 16px;
-margin: 4px 2px;
-cursor: pointer;
-justify-content: center;
-align-items: center;
-border-radius: 16px;
-transition: transform 0.5s;
-}
-.mirror1 {
-  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-  }
-.books1 {
-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-}
-.home1 {
-box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
-}
-.home:hover{
-  transform: translateY(-10px);
-}
-.books:hover{
-  transform: translateY(-10px);
 }
 .material-icons-outlined{
   color: #7FFF00;
