@@ -12,7 +12,7 @@
   background-size: cover;
   align-items: center;
   justify-content: center;
-  display: block;
+  display: inline-flex;
 }
 .container2 {
   width: 100%;
@@ -51,7 +51,7 @@ font-size: 14px;
 }
 
 .row {
-  display: inline-grid;
+  display: inline-flex;
   height: 88%;
   justify-content: center;
   align-items: center;
@@ -59,7 +59,7 @@ font-size: 14px;
 }
 .col {
   flex-basis: 80%;
-  display: inline-grid;
+  display: inline-flex;
   align-items: center;
   align-self: center;
   justify-content: center;
