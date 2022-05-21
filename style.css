@@ -85,29 +85,30 @@ font-size: 14px;
   padding: 10px;
 }
 .row1 {
-  display: flex;
+  display: grid;
   justify-content: center;
-  padding: 10px;
+  align-items: center;
+  padding: 30px;
 }
 .row2 {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  justify-content: flex-start;
   border: 3.25px solid #DAA520;
   border-radius: 8px;
   padding: 20px;
   flex-basis: 75%;
 }
 .row3 {
-  display: flex;
-  justify-content: center;
+  display: grid;
+  justify-content: flex-start;
   border: 3.25px solid #DAA520;
   border-radius: 8px;
   padding: 20px;
   flex-basis: 75%;
 }
 .row4 {
-  display: flex
-  justify-content: center;
+  display: grid;
+  justify-content: flex-start;
   border: 3.25px solid #DAA520;
   border-radius: 8px;
   padding: 20px;
@@ -135,7 +136,7 @@ color: white;
 padding: 10px;
 }
 h2 {
-padding: 10px;
+padding: 30px;
 text-align: center;
 color: white;
 text-decoration: none;
