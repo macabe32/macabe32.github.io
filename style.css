@@ -14,7 +14,6 @@
   align-items: center;
   justify-content: center;
   margin: auto;
-  position: relative;
 }
 .container2 {
   width: 100%;
@@ -60,11 +59,10 @@ font-size: 14px;
   align-items: center;
   padding: 0 20px;
   margin: auto;
-  position: absolute;
   top: 0;
+  bottom: 0;
   left: 0;
   right: 0;
-  bottom: 0;
 
 }
 .col {
@@ -79,11 +77,6 @@ font-size: 14px;
   border-radius: 8px;
   border-spacing: 20px;
   margin: auto;
-  position: absolute;
-  right: 0;
-  left: 0;
-  top: 0;
-  bottom: 0;
 }
 .col1 {
   flex-basis: 80%;
