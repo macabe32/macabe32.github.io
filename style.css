@@ -59,7 +59,7 @@ font-size: 14px;
   flex-basis: 100%;
 }
 .col {
-  flex-basis: 80%;
+  display: inline-col
   align-items: center;
   align-self: center;
   justify-content: center;
