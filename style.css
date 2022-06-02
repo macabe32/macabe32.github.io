@@ -33,6 +33,7 @@ align-items: flex-start;
 justify-content: flex-start;
 background-color: #F0F8FF;
 }
+
 nav {
 flex: 1;
 text-align: center;
@@ -60,8 +61,7 @@ font-size: 14px;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  width: 350px;
-  margin-left: 10px;
+  width: 390px;
   margin-top: 20px;
   padding: 0 20px;
   flex-basis: 100%;
@@ -167,7 +167,7 @@ line-height: 1.75;
 }
 blockquote {
   border-left-style: solid;
-  border-color: #512da8;
+  border-color: #FF4500;
   line-height: 1.5;
   color: white;
   padding: 10px;
@@ -186,15 +186,7 @@ details {
   width: 25px;
   height: 25px;
   cursor: pointer;
-  
-  .cottage-icon {
-    color: #FFFF00;
-    padding-top: 15px;
-    width: 25px;
-    height: 25px;
-    cursor: pointer;
   }
-}
 .material-icons-outlined:hover{
   transform: translateY(-10px);
   transition: transform 0.5s;
