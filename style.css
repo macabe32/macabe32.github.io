@@ -104,7 +104,7 @@ font-size: 14px;
   border: 3.25px solid #DAA520;
   border-radius: 8px;
   padding: 20px;
-  flex-basis: 75%;
+  flex-basis: 80%;
 }
 .row3 {
   display: grid;
@@ -120,7 +120,15 @@ font-size: 14px;
   border: 3.25px solid #DAA520;
   border-radius: 8px;
   padding: 20px;
-  flex-basis: 75%;
+  flex-basis: 80%;
+}
+.row5 {
+  display: grid;
+  justify-content: flex-start;
+  border: 3.25px solid #DAA520;
+  border-radius: 8px;
+  padding: 20px;
+  flex-basis: 80%;
 }
 .card {
   width: 50px;
