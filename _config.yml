@@ -16,17 +16,17 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: America/New York
+timezone: America/New_York
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Macabe                          # the main title
 
-tagline: Books, infosec, history, and marketing. But mostly books.  # it will display as the sub-title
+tagline: Mainly books. History, tech, econ. Will have technical writing soon. # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  Macabe Kelly, Mac Kelly, Calibir
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://macabe.art'
