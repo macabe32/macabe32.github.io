@@ -1,0 +1,24 @@
+---
+title: Open - How Collaboration and Curiosity Shaped Humankind | Johan Norberg
+date: 2021-12-19 12:00:00 -500
+categories: [books, econ, history]
+tags: [karl popper, evolution]
+---
+
+# Open - How Collaboration and Curiosity Shaped Humankind | Johan Norberg
+
+## Thoughts
+
+Norberg explains how openness remains a critical factor to economical and societal resilience. Openness can be understood as willingness to understand before a decision is made. This is extremely simplified, but captures the nature of the attempt to understand rather than to immediately judge or respond, something we all can be guitly of. The two parts of the book, _Open_ and _Closed_, appraoch the topic from a range of angles.
+
+It should be noted that the stance taken by the author is one that supports open economies and societies. This is supported in the first part where the examples given explain how open societies have trumped closed societies throughout history. The Persians, Macedonians, Romans, Tang Chinese, Mongols, Ottomans, Dutch, British, and Americans are examples used throughout the book and I am sure I am missing a few others. One of the neat examples given is on the topic of co-operation in our species. He mentions that the whites of our eyes evolved from the dark colors we see in other mammals as a tool to work with one another. The dark background makes it more difficult to tell where one is looking, so you can get to the juicy fruit first. The white backgrounds have quite the opposite effect. We can see what each other are looking towards, food, threats, other animals, etc. This evolutionary trait led to a more co-operative group, he argues.
+
+The second part explains the dark nature of closed societies, particularly how open societies are susceptiple to collapse in times of fast change, and have a tendency to revert to our tribal nature.
+
+The word open is not intended to be warm and fuzzy, but rather describe the natural opposite to our tribal nature, and groupthink tendencies. Norberg mentions Karl Popper throughout the book to describe the unnatural state of openness, and how authoritarian regimes use this unnatural feeling to claim power by tapping into our tribal roots.
+
+My favorite quote of the book is Norberg's use of a Karl Popper quote to begin the last chapter titled, _Open or Closed?_, which details the choice that we do have for a resilient, open world.
+
+>Civilization has not yet fully recovered from the shock of its birth - the transition from the tribal or "enclosed society", with its submission to magical forces, to the 'open society' which sets free the critical powers of man. The shock of this transition is one of the factors that have made possible the rise of those reactionary movements which have tried, and still try, to overthrow civilization and to return to tribalism.
+
+Overall, this book was a delight. A phenomenal blend of history and economics all tied into a guide of how our species has grown since the dawn of humanity. If you like history and/or economics definetly give it a go.
