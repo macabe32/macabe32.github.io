@@ -1,6 +1,6 @@
 ---
-title: Making a Social Graph with python and gephi
-date: 2022-9-29 12:00:00 -500
+title: Making a Social Graph with python & gephi
+date: 2022-10-19 12:00:00 -500
 categories: [technical writing]
 tags: [python, gephi, graph]
 ---
